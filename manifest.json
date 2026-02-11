@@ -1,0 +1,23 @@
+
+{
+  "name": "je t'aime aussi",
+  "short_name": "Je t'aime",
+  "description": "Transformez vos sentiments en poèmes et œuvres d'art uniques.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff1f2",
+  "theme_color": "#881337",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2589/2589175.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2589/2589175.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
